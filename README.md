@@ -206,18 +206,6 @@ The application code in this repository is intended to be MIT licensed.
 
 This project is independent and is not an official Cornell Lab product.
 
-## Hacktoberfest submission checklist
-
-- [ ] Push the project to GitHub
-- [ ] Add screenshots
-- [ ] Record a short outdoor demo
-- [ ] Mention the actual model used
-- [ ] Explain why local/open AI mattered
-- [ ] Describe your field test
-- [ ] Link the GitHub repository in your DEV post
-- [ ] Add applicable partner categories
-- [ ] Include an agent session if you use DevRelay
-
 ## Future improvements
 
 - GPS-based species filtering
